@@ -1,0 +1,5 @@
+skip_dir = "Documents"
+skip_file = "*.obj|*.a|*.o|*.tmp|*.pdb|*.cache|*.class|desktop.ini"
+
+# Every 10 minutes
+monitor_interval = "600"
